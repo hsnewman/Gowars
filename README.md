@@ -13,6 +13,8 @@ The code for DECWAR has been lost. Gowars is based on the 2.2 version of the exe
   The summary command in pregame shows grand totals of all galaxies
   The points command is currently not implemented due to the no authentication design of the game.
   Baud rate is simulated.  In gowars mode baud defaults to 0, while in decwars mode it defaults to 9600.  The Set command supports changing baud to 300, 1200.2400 and 9600, in decwars mode if the user is an administrator they can set their baud to 0.
+  A web interface that shows the each galaxy in "set scan short" mode with hover pop-ups showing that object's status and damages.
+  The code also supports web debugging via pprof, on port 6060 
   
   An improved command line interface:  
     Command history  
