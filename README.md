@@ -27,6 +27,7 @@ Description: The code for DECWAR has been lost. Gowars is based on the 2.2 versi
     * Parameter parsing
     * Contextual prompting (he<tab>) and parameter prompting (srsscan ?)
     * Special characters:
+    
         Enter: Submit command.
         Backspace/Delete:  Delete last character.
         Ctrl+A (ASCII 1):  Move cursor to beginning of line.
