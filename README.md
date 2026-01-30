@@ -48,6 +48,7 @@ Notes:
     * Towing of any object
 
 System design: 
+
     * A basic telnet server along with support for some telent commands (AYT)
     * An atomic State Engine manages concurrency by running all commands (for a given galaxy) that are state-changing sequentially, while a seperate command processor (per ship) runs all non-state-changing commands seperately
 
